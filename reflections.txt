@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+  * Aprendi a usar uma grande variedade de tags aperfeiçoando minhas habilidades na linguagem HTML
+  * Foi bem divertido e dinâmico o aprendizado
+  * Nao foi muito difícil
+  * Usei principalmente a pesquisa na plataforma MDN, identifiquei os dados que tinha que editar, o qual facilitou meu trabalho
